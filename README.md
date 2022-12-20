@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlesdesouza
-- 👀 I’m interested in software and web development
+- 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning Udemy
 - 💞️ I’m looking to collaborate on anything that can bring me experience.
 - 📫 Reach me on linkedin.com/in/carles-de-souza/ | e-mail : carlesdesouza4@gmail.com

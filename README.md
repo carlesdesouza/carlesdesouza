@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning on Udemy
 - 💞️ I’m looking to collaborate on anything that can bring me experience.
-- 📫 Join me on linkedin.com/in/carles-de-souza/ | e-mail : carlesdesouza4@gmail.com
+- 📫 Reach me on linkedin.com/in/carles-de-souza/ | e-mail : carlesdesouza4@gmail.com
 
 <!---
 carlesdesouza/carlesdesouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
